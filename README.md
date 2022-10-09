@@ -6,8 +6,6 @@ List:
 
 Royale#1337
 
-Delta.#0057
-
 Ark#9938
 
 ollie123#8577
